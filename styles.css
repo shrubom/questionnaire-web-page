@@ -1,12 +1,12 @@
 body {
   font-family: Arial, sans-serif;
-  background-color: #f0f0f0;
+  background-color: #90c2c5;
 }
 header,
 footer {
   background-color: #333;
   color: #fff;
-  padding: 1em;
+  padding: 0.7em;
 }
 nav ul {
   list-style-type: none;
@@ -19,12 +19,12 @@ nav li {
 nav a {
   color: #333;
   text-decoration: none;
-  padding: 0.5em 1em;
+  padding: 0.5em 0.5em;
 }
 nav a:hover {
-  background-color: #fff;
+  background-color: rgb(86, 159, 179);
   color: #333;
 }
 main {
-  padding: 1em;
+  padding: 0.5em;
 }
